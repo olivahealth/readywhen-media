@@ -5,7 +5,7 @@ Finished readywhen social creative that has already been published. Buffer pulls
 ## Rules
 
 - **Published work only.** This repo is public and its history is permanent: anything committed here can still be retrieved from forks and caches after it is deleted. Never commit a draft, an unreleased campaign, or anything you would not post publicly today.
-- **Our own assets only.** Do not commit licensed stock or third-party creative whose terms do not allow public redistribution.
+- **Our own assets, plus a small business's own photos for a story we tell about them** (Sançar, 21 Sep 2026). Taken from the business's own channels (their Instagram, website or listing, or a photo the press credits to them), never from a photographer, agency or stock site. The business is tagged in the post, and the photo comes down if they ask. Removing a file does not remove it from history, so the first rule above still applies: only what we would post today. Still no licensed stock or paid-for creative.
 - **No secrets.** Nothing here runs. Actions and Pages are off by design.
 
 ## Getting an image URL for Buffer
